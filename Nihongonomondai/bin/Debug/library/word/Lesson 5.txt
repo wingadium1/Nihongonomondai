@@ -1,0 +1,52 @@
+きょねん|kyonen|năm ngoài
+らいげつ|raigetsu|tháng sau
+こげつ|kogetsu|tháng này
+たんじょうび|tanjoubi|sinh nhật
+らいねん|rainen|năm sau
+ことし|kotoshi|năm nay
+せんげつ|sengetsu|tháng trước
+いつ|itsu|lúc nào
+なんにち|nannichi|ngày nào
+にち|nichi|ngày
+らいしゅう|raishuu|tuần sau
+こんしゅう|konshuu|tuần này
+せんしゅう|senshuu|tuần trước
+ともだち|tomodachi|bạn
+ひと|hito|người
+あるいて|aruite|đi bộ
+ばんせん|bansen|đường tàu số
+ひとりで|hitoride|một mình
+こいびと|koibito|người yêu
+しんかんせん|shinkansen|tàu shinkansen
+でんしゃ|densha|xe điện
+ふね|fune|tàu thủy
+ひこうき|hikouki|máy bay
+ちかてつ|chikatetsu|tàu điện ngầm
+タクシー|takushi-|taxi
+バス|basu|xe bus
+ほんや|honya|nhà sách
+スーパー|su-pa-|siêu thị
+デパート|depa-to|bách hóa
+なんがつ|nangatsu|tháng nào
+がつ|gatsu|tháng
+や|ya|cửa hàng 
+びょういん|byoin|bệnh viện
+かえります|kaemasu|trở về
+きます|kimasu|đến
+いきます|kimasu|đi
+ぎんこう|ginkou|ngân hàng
+えき|eki|nhà ga
+こうじょう|koujou|nhà máy
+とおか|tooka|ngày mồng 10
+ここのか|kokonoka|ngày mồng 9
+ようか|youka|ngày mồng 8
+にじゅうよっか|ni juuyokkan|gày 24
+はつか|hatsuka|ngày 20
+じゅうよっか|juuyokka|ngày 14
+なのか|nanoko|ngày mồng 7
+みっか|mikka|ngày mồng 3
+ふつか|futsuka|ngày mồng 2
+ついたち|tsutaka|ngày mồng 1
+むいか|muika|ngày mồng 6
+いつか|itsuka|ngày mồng 5
+よっか|yokka|ngày mồng 4

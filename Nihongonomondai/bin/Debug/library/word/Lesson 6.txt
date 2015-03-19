@@ -1,0 +1,49 @@
+たべます|tabemasu|ăn
+のみます|nomimasu|uống
+すいます|suimasu|hút
+かきます|kakimasu|viết
+よみます|yomimasu|đọc
+ききます|kikimasu|nghe
+みます|mimasu|thấy
+かいます|kaimasu|mua
+とります|torimasu|chụp
+じっしゅします|jisshushimasu|thực tập
+します|shimasu|chơi, làm
+あいます|aimasu|gặp
+ごはん|gohan|bữa ăn
+あさごはん|asagohan|bữa ăn sáng
+ひるごはん|hirugohan|bữa ăn trua
+ばんごはん|bangohan|bữa ăn tối
+パン|pan|bánh mì
+たまご|tabago|trứng
+にく|niku|thịt
+さかな|sakana|cá
+やさい|yasai|rau
+りんご|ringo|táo tây
+ぎゅうにゅう|gyuuniku|sữa bò
+おちゃ|ocha|trà
+コーヒー|ko-hi-|cà phê
+こうちゃ|koocha|trà đên
+ジュース|ju-su|nước hoa quả
+ビール|bi-ru|bia
+おさけ|osake|rượu
+みず|mizu|nước
+ネクタイ|nekutai|cà vạt
+シャツ|shatsu|áo sơ mi
+くつ|kutsu|giày
+テープ|te-pu|băng đĩa
+フィルム|firumu|phim máy ảnh
+しゃしん|shashin|ảnh
+えいが|eiga|phim chiếu bóng
+ピンポン|pinpon|bóng bàn
+なに|nani|gì
+いっしょに|isshoni|cùng với
+それから|sorekara|sau đó
+と|to|và
+もしもし|moshi moshi|a lô
+ああ|aa|à
+あしたひまですか|ashita hima desuka|mai có rảnh ko
+ええ|ee|dạ, vầng
+いいですね|ii desune|hay nhỉ
+わかりました|wakaramashita|hiểu rồi
+またあした|mata ashita|mai gặp lại

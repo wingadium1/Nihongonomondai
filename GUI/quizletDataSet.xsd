@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="quizletDataSet" targetNamespace="http://tempuri.org/quizletDataSet.xsd" xmlns:mstns="http://tempuri.org/quizletDataSet.xsd" xmlns="http://tempuri.org/quizletDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="quizletConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="quizletConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.GUI.Properties.Settings.GlobalReference.Default.quizletConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="RECORDSTableAdapter" GeneratorDataComponentClassName="RECORDSTableAdapter" Name="RECORDS" UserDataComponentName="RECORDSTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="quizletConnectionString (Settings)" DbObjectName="quizlet.dbo.RECORDS" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT timefinish, timeleft, mark FROM dbo.RECORDS</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="timefinish" DataSetColumn="timefinish" />
+              <Mapping SourceColumn="timeleft" DataSetColumn="timeleft" />
+              <Mapping SourceColumn="mark" DataSetColumn="mark" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="quizletDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="quizletDataSet" msprop:Generator_UserDSName="quizletDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="RECORDS" msprop:Generator_TableClassName="RECORDSDataTable" msprop:Generator_TableVarName="tableRECORDS" msprop:Generator_TablePropName="RECORDS" msprop:Generator_RowDeletingName="RECORDSRowDeleting" msprop:Generator_RowChangingName="RECORDSRowChanging" msprop:Generator_RowEvHandlerName="RECORDSRowChangeEventHandler" msprop:Generator_RowDeletedName="RECORDSRowDeleted" msprop:Generator_UserTableName="RECORDS" msprop:Generator_RowChangedName="RECORDSRowChanged" msprop:Generator_RowEvArgName="RECORDSRowChangeEvent" msprop:Generator_RowClassName="RECORDSRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="timefinish" msprop:Generator_ColumnVarNameInTable="columntimefinish" msprop:Generator_ColumnPropNameInRow="timefinish" msprop:Generator_ColumnPropNameInTable="timefinishColumn" msprop:Generator_UserColumnName="timefinish" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="timeleft" msprop:Generator_ColumnVarNameInTable="columntimeleft" msprop:Generator_ColumnPropNameInRow="timeleft" msprop:Generator_ColumnPropNameInTable="timeleftColumn" msprop:Generator_UserColumnName="timeleft" type="xs:int" />
+              <xs:element name="mark" msprop:Generator_ColumnVarNameInTable="columnmark" msprop:Generator_ColumnPropNameInRow="mark" msprop:Generator_ColumnPropNameInTable="markColumn" msprop:Generator_UserColumnName="mark" type="xs:double" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

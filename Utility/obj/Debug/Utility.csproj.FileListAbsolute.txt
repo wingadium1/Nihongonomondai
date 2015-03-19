@@ -1,0 +1,8 @@
+D:\C sharp\PE\Q2\Nihongonomondai\Utility\bin\Debug\Utility.dll
+D:\C sharp\PE\Q2\Nihongonomondai\Utility\bin\Debug\Utility.pdb
+D:\C sharp\PE\Q2\Nihongonomondai\Utility\obj\Debug\Utility.dll
+D:\C sharp\PE\Q2\Nihongonomondai\Utility\obj\Debug\Utility.pdb
+D:\C sharp\Nihongonomondai\Utility\bin\Debug\Utility.dll
+D:\C sharp\Nihongonomondai\Utility\bin\Debug\Utility.pdb
+D:\C sharp\Nihongonomondai\Utility\obj\Debug\Utility.dll
+D:\C sharp\Nihongonomondai\Utility\obj\Debug\Utility.pdb

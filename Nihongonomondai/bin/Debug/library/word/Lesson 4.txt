@@ -1,0 +1,43 @@
+べんきょう|benkyou|học tập
+にほんご|nihongo|tiếng Nhật
+こうぎ|kogi|bài giảng
+から|kara|từ
+けんがく|kengaku|tham quan kiến tập
+こんばん|konban|tối nay
+けさ|kesa|sáng nay
+まいあさ|maiasa|hàng sáng
+まいにち|mainichi|hàng ngày
+まいばん|maiban|hàng tối
+まで|made|đến
+どようび|doyobi|thứ 7
+きんようび|kinyoubi|thứ 6
+なんようび|nanyobi|thứ mấy
+たいへんですね|taihendesune|gay quá nhỉ?
+そうですか|sodesuka|thế à?
+げつようび|getsuyoubi|thứ 2
+にちようび|nichiyobi|chủ nhật
+かようび|kayobi|thứ 3
+もくようび|mokuyobi|thứ 5
+すいようび|suiyobi|thứ 4
+あさって|asatte|ngày kia
+いま|ima|bây giờ
+おわります|owarimasho|xong
+じ|ji|giờ
+はん|han|rưỡi
+ふん|fun|phút
+ねます|nemasu|ngủ
+おきます|okimasu|thức dậy
+はたらきます|hatarakimasu|làm việc
+べんきょうします|benkyoushimasu|học
+やすみます|yasumimasu|nghỉ
+なんじ|nanji|mấy giờ
+おととい|ototoi|hôm kia
+ばん（よる）|yoru|tối
+きのう|kinou|hôm qua
+あした|ashita|ngày mai
+きょう|kyou|hôm nay
+ごぜん|gozenn|AM
+なんぷん|nanbun|mấy phút
+ごご|gogo|PM
+ひる|hiru|trưa
+あさ|asa|sáng

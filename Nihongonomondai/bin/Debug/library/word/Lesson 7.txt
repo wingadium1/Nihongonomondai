@@ -1,0 +1,41 @@
+きります|kirimasu|cắt
+しゅうりします|shuurimasu|sửa chửa
+かけます|kakemasu|gọi
+あげます|agemasu|cho, biếu
+もらいます|moraimasu|nhận
+おしえます|oshiemasu|dạy
+ならいます|naraimasu|học
+かします|kashimasu|cho mượn 
+かります|karimasu|mượn
+はし|hashi|đũa
+ナイフ|naifu|dao
+フォーク|foku|nĩa
+スプーン|subun|muỗng
+はさみ|hasami|kéo
+ドライバー|tua lơ vít
+スパナ|mõ lếch
+ペンチ|kìm
+おかね|okane|tiền
+プレゼント|purezento|quà
+レポート|repo-to|báo cáo
+かぞく|kozoku|gia đình
+おとうさん|otousan|bố ng khác
+おかあさん|okaasan|mẹ ng khác
+おにいさん|onisan|anh ng khác
+おねえさん|onesan|chị ng khác
+おとうと|otooto|em trai mình
+いもうと|imoto|em gái mình
+おくさん|okasan|vợ ng khác
+かない|kanai|vợ mình
+しゅじん|shujin|chồng mình
+ごしゅじん|goshujin|chồng ng khác
+こども|kodomo|con
+えいご|eigo|tiếng Anh
+ご|go|tiếng ~
+もう|mou|rồi
+まだ|mada|chưa
+これから|korekara|từ nay trở đi
+おめでとうございます|omedetou gozaimasu|xin chúc mừng
+わあ|waa|ái chà
+どういたしまして|douitashite|không có gì
+いい～ですね|ii desune|~ tốt nhỉ
